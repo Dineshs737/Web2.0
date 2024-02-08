@@ -11,7 +11,12 @@ img {
 ul
 {
   font-family: 'Courier New', Courier, monospace;
-  font-size: small;
+  
   font-style: normal;
   font: bold
+}
+
+table
+{
+  border: 4px black;
 }
